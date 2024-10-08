@@ -1,4 +1,4 @@
-# EmployeeManagementAndPayrollSystem-
+# EmployeeManagementAndPayrollSystem
 
 Members of the team:
 1) Cojocaru George (MISS1)
